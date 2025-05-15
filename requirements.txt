@@ -7,3 +7,4 @@ scikit-learn
 lightgbm
 shap
 ydata-profiling
+pkg_resources 
